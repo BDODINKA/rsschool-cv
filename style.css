@@ -3,3 +3,79 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.header{
+    width: 1440px;
+    position:relative;
+}
+
+.header-background{
+    background: url("./img/Background-CV.jpg");
+    width: 1440px;
+    height: 500px;
+    background-size: cover;
+}
+.header-avatar{
+    background: url("./img/1.jpg");
+    background-size: cover;
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    left: 42%;
+    bottom: -35px;
+    border: 5px solid whitesmoke;
+    border-radius: 50%;
+}
+.header-nav{
+    height: 80px;
+}
+.nav-list{
+    height: inherit;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    column-gap: 8%;
+}
+.nav-items{
+
+}
+.nav-link{
+    text-decoration: none;
+    font-size: 24px;
+    color: #a2b8d3;
+}
+.main{
+    width: 1440px;
+}
+.home-cards{
+    display: flex;
+    justify-content: center;
+}
+.card-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 33%;
+    height: 350px;
+    border: 2px solid #a2b8d3 ;
+    border-radius: 2%;
+    padding: 2%;
+    background: #daecf6 ;
+}
+.card-line{
+    background: #a2b8d3;
+    width: 5%;
+    height: 3px;
+}
+.main-about{
+    display: flex;
+    flex-direction: column;
+}
+.main-about>h3{
+    margin-top: 20px;
+    text-align: center;
+}
