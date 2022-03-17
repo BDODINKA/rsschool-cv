@@ -5,7 +5,7 @@
 [Github](https://github.com/BDODINKA)
 [Gmail](https://bdodinka1992@gmail.com)
 #### Links CV ####
-[CV](https://www.onliner.by/)
+[CV]()
 
 #### Skills ####                          
 - [x] HTML
