@@ -1,11 +1,13 @@
 #Hi,My name is Dmitry #
+![](../../Desktop/1.jpg)
 ### I'm learning to FrontEnd Developer ###
 #### Contacts ####
 [Github](https://github.com/BDODINKA)
 [Gmail](https://bdodinka1992@gmail.com)
 #### Links CV ####
 [CV](https://www.onliner.by/)
-#### Skills ####
+
+#### Skills ####                          
 - [x] HTML
 - [x] CSS
 - [x] Basic JS
