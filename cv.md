@@ -1,5 +1,5 @@
-# Hi,My name is Dmitry #
-![](../../Desktop/1.jpg)
+## Hi,My name is Dmitry ##
+![](img/1.jpg)
 ### I'm learning to FrontEnd Developer ###
 #### Contacts ####
 [Github](https://github.com/BDODINKA)
