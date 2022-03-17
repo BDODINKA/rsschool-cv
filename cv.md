@@ -1,9 +1,10 @@
-#  Hi,My name is Dmitry #
+#Hi,My name is Dmitry #
 ### I'm learning to FrontEnd Developer ###
 #### Contacts ####
-[CV](https://www.onliner.by/)
 [Github](https://github.com/BDODINKA)
 [Gmail](https://bdodinka1992@gmail.com)
+#### Links CV ####
+[CV](https://www.onliner.by/)
 #### Skills ####
 - [x] HTML
 - [x] CSS
@@ -18,6 +19,12 @@
 - [ ] Vue JS
 - [ ] Redux/Redux-saga/MobX
 - [ ] Node Js
+#### Experience ####
+* RS-School Stage 0 *
+#### Education #### 
+* Belarussian State University of Informatics and RadioElectronics *
+#### Languages ####
+* A1-A2-*
 
 ```//search btn
 const btnPrev = document.querySelector(".btn-prev");
@@ -58,4 +65,5 @@ function onNextClick(){
     if(currentImageIndex === (imgAll.length -1)){
         btnNext.disabled = true;
     };
-};```
+};
+```
