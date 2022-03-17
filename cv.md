@@ -1,5 +1,5 @@
 ## Hi,My name is Dmitry ##
-![](img/1.jpg)
+![](./img/1.jpg)
 ### I'm learning to FrontEnd Developer ###
 #### Contacts ####
 [Github](https://github.com/BDODINKA)
@@ -24,7 +24,7 @@
 #### Experience ####
 * RS-School Stage 0 *
 #### Education #### 
-* Belarussian State University of Informatics and RadioElectronics *
+* Belarusian State University of Informatics and RadioElectronics *
 #### Languages ####
 * A1-A2-*
 
